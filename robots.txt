@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://agathachiu.com/sitemap.xml 
+Sitemap: http://agathachiu.github.com/sitemap.xml 

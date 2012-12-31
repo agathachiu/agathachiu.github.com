@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[love dylanliang]]></title>
-  <link href="http://agathachiu.com/atom.xml" rel="self"/>
-  <link href="http://agathachiu.com/"/>
-  <updated>2012-12-31T12:16:24+08:00</updated>
-  <id>http://agathachiu.com/</id>
+  <link href="http://agathachiu.github.com/atom.xml" rel="self"/>
+  <link href="http://agathachiu.github.com/"/>
+  <updated>2012-12-31T12:35:41+08:00</updated>
+  <id>http://agathachiu.github.com/</id>
   <author>
     <name><![CDATA[agathachiu]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[大作家来咯]]></title>
-    <link href="http://agathachiu.com/blog/2012/12/31/agatha-coming/"/>
+    <link href="http://agathachiu.github.com/blog/2012/12/31/agatha-coming/"/>
     <updated>2012-12-31T12:13:00+08:00</updated>
-    <id>http://agathachiu.com/blog/2012/12/31/agatha-coming</id>
+    <id>http://agathachiu.github.com/blog/2012/12/31/agatha-coming</id>
     <content type="html"><![CDATA[<h1>跟着我家dylan来咯</h1>
 
 <p>好吧,这是我帮我宝宝建的.</p>
